@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+}
+.contener{
+    color: white;
+}
+.grid-item {
+    font-size: 20px;
+    text-align: center;
+}
+.elvalsztasr{
+    border-right: 1px solid red ;
+}
+.elvalsztasl{
+    border-left: 1px solid red ;
+}
+.tabla1{
+    margin: auto;
+    width: 80%;
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+img{
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+#macc{
+    text-align: left;
+}
+#vonalmacc{
+    border-bottom: 1px solid red ;
+}
+.doboz2{
+    margin: auto;
+    width: 80%;
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+}
+#dolzamatkep{
+    text-align: center;
+    width: 350px;
+}
+.rers3{
+    margin: auto;
+    width: 80%;
+    max-width: 900px;
+}
+#kekekek{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 50px;
+}
+.blcok{
+    display: block;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: rgb(19, 147, 252);
+    padding: 10px;
+}

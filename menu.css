@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(49, 45, 45)   ;
+    margin: 0%;
+}
+#menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    background-color: rgb(49, 45, 45);  
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(190, 25, 25);
+  }
